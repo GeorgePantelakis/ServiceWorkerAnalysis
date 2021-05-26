@@ -48,7 +48,7 @@
   "ITE",
   "research"
  ],
- "author": "George Pantel",
+ "author": "",
  "license": "ISC",
  "dependencies": {
   "chai": "^4.2.0",
